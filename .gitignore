@@ -1,0 +1,16 @@
+.bash_history
+.bash_profile
+.bashrc
+.gem
+.gitconfig
+.inputrc
+.minttyrc
+.oh-my-zsh
+.profile
+.subversion
+.viminfo
+.zcompdump*
+.zsh-update
+.zsh_history
+.zshrc
+Thumbs.db
