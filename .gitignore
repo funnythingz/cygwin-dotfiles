@@ -1,5 +1,2 @@
-!.vim
-!.vim/**/*.*
-!.vimrc
-!README.md
-*
+.DS_Store
+Thumbs.db
