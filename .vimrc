@@ -14,8 +14,10 @@ set title
 
 set showmatch
 set autoindent
+set smartindent
 set smarttab
-"set cursorline
+
+set cursorline
 "set cursorcolumn
 
 if has('vim_starting')
@@ -37,3 +39,4 @@ colorscheme molokai
 au BufRead,BufNewFile,BufReadPre *.scala    set filetype=scala tabstop=4 shiftwidth=4 softtabstop=4
 au BufRead,BufNewFile,BufReadPre *.ts       set filetype=typescript tabstop=4 shiftwidth=4 softtabstop=4
 au BufRead,BufNewFile,BufReadPre *.coffee   set filetype=coffee
+au BufRead,BufNewFile,BufReadPre *.hbs      set filetype=handlebars
